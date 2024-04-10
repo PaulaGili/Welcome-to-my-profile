@@ -1,27 +1,21 @@
 <div id="header" align="center">
-    <h1>Welcome, I'm Paula Gili👋</h1>
+    <h1>Welcome, I'm Paula Gili 👋</h1>
         <h3>Dedicated Big Data and Business Intelligence enthusiast who loves crafting innovative solutions to tackle real-world challenges. </h3>
 </div>
+    
+- 🔭 I'm deeply fascinated by **Artificial Intelligence and its diverse applications**.
 
-<h2>🔭 What I'm Currently Exploring:</h2>
-<ul>
-    <li>I'm deeply fascinated by Artificial Intelligence and its diverse applications.</li>
-    <li>Currently expanding my skill set with Python and Git.</li>
-</ul>
+- 💻 Currently expanding my skill set with **Python and Git**.
 
-<h2>📄 More About Me:</h2>
-<p>Curious about my experiences? Check out my CV.</p>
+- 📄 Curious about my experiences? Check out my <a href="mailto:https://drive.google.com/file/d/1OKAcVqQl0y48Pz4TYNkTuQzNk3Gyo-FD/view?usp=share_link">CV</a>.
 
-<h2>📫 Get in Touch:</h2>
-<p>Feel free to reach out via email at <a href="mailto:paulagili.bi@gmail.com">paulagili.bi@gmail.com</a>.</p>
-<p>Questions or inquiries? Don't hesitate to drop me a message!</p>
+- 📫 Feel free to reach out via email at <a href="mailto:paulagili.bi@gmail.com">paulagili.bi@gmail.com</a>.
 
-<h2>💬 Let's Connect:</h2>
+
+<h2>Let's Connect:</h2>
 <p align="left">
     <a href="www.linkedin.com/in/paula-gili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcbourleau" height="30" width="40" /></a>
     </p>
-
-
 
 <h2>Languages and Tools I Work With:</h2>
 <div>
