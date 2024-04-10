@@ -1,4 +1,6 @@
+
 <div id="header" align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWR0MmF6ZGRwbWF2aXUzcHE0Nmdsem5wM3pmZWNuZ2trcTBtc3lzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
     <h1>Welcome, I'm Paula Gili 👋</h1>
         <h3>Dedicated Big Data and Business Intelligence enthusiast who loves crafting innovative solutions to tackle real-world challenges. </h3>
 </div>
