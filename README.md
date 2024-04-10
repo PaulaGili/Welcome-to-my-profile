@@ -1,9 +1,7 @@
 <div id="header" align="center">
     <h1>Hi, I'm Paula Gili👋</h1>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2kwcWIzNGdzNTBqandzb2VrYno3YXZyMDVoMmxhYmVkYmV4M2J4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="margin-bottom: 20px;" />
     <p>Hey there! I'm Paula Gili, a dedicated Big Data and Business Intelligence enthusiast who loves crafting innovative solutions to tackle real-world challenges. Here's a little about what you'll find here:</p>
 </div>
-
 
 <h2>🔭 What I'm Currently Exploring:</h2>
 <ul>
