@@ -1,6 +1,6 @@
 <div id="header" align="center">
-    <h1>Hi, I'm Paula Gili👋</h1>
-    <p>Hey there! I'm Paula Gili, a dedicated Big Data and Business Intelligence enthusiast who loves crafting innovative solutions to tackle real-world challenges. Here's a little about what you'll find here:</p>
+    <h1>Welcome, I'm Paula Gili👋</h1>
+        <h3>Dedicated Big Data and Business Intelligence enthusiast who loves crafting innovative solutions to tackle real-world challenges. </h3>
 </div>
 
 <h2>🔭 What I'm Currently Exploring:</h2>
