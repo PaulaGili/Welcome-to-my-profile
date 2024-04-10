@@ -3,23 +3,24 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWR0MmF6ZGRwbWF2aXUzcHE0Nmdsem5wM3pmZWNuZ2trcTBtc3lzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
     <h1>Welcome, I'm Paula Gili 👋</h1>
         <h3>Dedicated Big Data and Business Intelligence enthusiast who loves crafting innovative solutions to tackle real-world challenges. </h3>
-</div>
     
+</div>
+
 - 🔭 I'm deeply fascinated by **Artificial Intelligence and its diverse applications**.
 
 - 💻 Currently expanding my skill set with **Python and Git**.
 
-- 📄 Curious about my experiences? Check out my <a href="mailto:https://drive.google.com/file/d/1OKAcVqQl0y48Pz4TYNkTuQzNk3Gyo-FD/view?usp=share_link">CV</a>.
+- 📄 Curious about my experiences? Check out my <a href="mailto:https://drive.google.com/file/d/1OKAcVqQl0y48Pz4TYNkTuQzNk3Gyo-FD/view?usp=share_link">**CV**</a>.
 
-- 📫 Feel free to reach out via email at <a href="mailto:paulagili.bi@gmail.com">paulagili.bi@gmail.com</a>.
+- 📫 Feel free to reach out via email at <a href="mailto:paulagili.bi@gmail.com">**paulagili.bi@gmail.com**</a>.
 
 
-<h2>Let's Connect:</h2>
+<h3>Let's Connect:</h3>
 <p align="left">
     <a href="www.linkedin.com/in/paula-gili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcbourleau" height="30" width="40" /></a>
     </p>
 
-<h2>Languages and Tools I Work With:</h2>
+<h3>Languages and Tools I Work With:</h3>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg"  title="RStudio" width="40" height="40"/>&nbsp;
