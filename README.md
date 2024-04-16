@@ -8,12 +8,11 @@
 
 - 🔭 I'm deeply fascinated by **Artificial Intelligence and its diverse applications**.
 
-- 💻 Currently expanding my skill set with **Python and Git**.
+- 💻 Currently expanding my skill set with **Neo4j y MongoDB**.
 
-- 📄 Curious about my experiences? Check out my <a href="mailto:https://drive.google.com/file/d/1OKAcVqQl0y48Pz4TYNkTuQzNk3Gyo-FD/view?usp=share_link">**CV**</a>.
+- 📄 Curious about my experiences? Check out my [CV](https://drive.google.com/file/d/1OKAcVqQl0y48Pz4TYNkTuQzNk3Gyo-FD/view?usp=share_link)
 
-- 📫 Feel free to reach out via email at <a href="mailto:paulagili.bi@gmail.com">**paulagili.bi@gmail.com**</a>.
-
+- 📫 Feel free to reach out via email at **paulagili.bi@gmail.com**.
 
 <h3>Let's Connect:</h3>
 <p align="left">
@@ -25,7 +24,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg"  title="RStudio" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript"  width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="Python"  width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"  width="40" height="40"/>&nbsp;
     <img src="https://github.com/xiaotwins/PowerBI-Icons/blob/main/SVG/PowerBI.svg" title="PowerBI" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass"  width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
