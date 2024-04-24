@@ -10,13 +10,13 @@
 
 - 💻 Currently expanding my skill set with **Neo4j y MongoDB**.
 
-- 📄 Curious about my experiences? Check out my [CV](https://drive.google.com/file/d/1OKAcVqQl0y48Pz4TYNkTuQzNk3Gyo-FD/view?usp=share_link)
+- 📄 Curious about my experiences? Check out my [CV](https://drive.google.com/file/d/1lBkNNKe6SyTwdheDRdiH_CeprvH43tAo/view?usp=sharing)
 
 - 📫 Feel free to reach out via email at **paulagili.bi@gmail.com**.
 
 <h3>Let's Connect:</h3>
 <p align="left">
-    <a href="www.linkedin.com/in/paula-gili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcbourleau" height="30" width="40" /></a>
+    <a href="www.linkedin.com/in/paula-gili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
     </p>
 
 <h3>Languages and Tools I Work With:</h3>
