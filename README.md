@@ -8,8 +8,6 @@
 
 - 🔭 I'm deeply fascinated by **Artificial Intelligence and its diverse applications**.
 
-- 💻 Currently expanding my skill set with **Neo4j y MongoDB**.
-
 - 📄 Curious about my experiences? Check out my [CV](https://drive.google.com/file/d/1lBkNNKe6SyTwdheDRdiH_CeprvH43tAo/view?usp=sharing)
 
 - 📫 Feel free to reach out via email at **paulagili.bi@gmail.com**.
