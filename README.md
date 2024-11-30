@@ -8,7 +8,7 @@
 
 - 🔭 I'm deeply fascinated by **Artificial Intelligence and its diverse applications**.
 
-- 📄 Curious about my experiences? Check out my [CV](https://drive.google.com/file/d/1lBkNNKe6SyTwdheDRdiH_CeprvH43tAo/view?usp=sharing)
+- 📄 Curious about my experiences? Check out my [CV](https://drive.google.com/file/d/1INiqW1rTwYFQ3NLT07_cIbmgEb4sj0NQ/view?usp=share_link) 
 
 - 📫 Feel free to reach out via email at **paulagili.bi@gmail.com**.
 
