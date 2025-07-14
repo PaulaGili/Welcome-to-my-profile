@@ -2,14 +2,12 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWR0MmF6ZGRwbWF2aXUzcHE0Nmdsem5wM3pmZWNuZ2trcTBtc3lzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
     <h1>Welcome, I'm Paula Gili 👋</h1>
-        <h3>Dedicated Big Data and Business Intelligence enthusiast who loves crafting innovative solutions to tackle real-world challenges. </h3>
+        <h3>Big Data and Business Intelligence Specialist. I transform complex data into impactful strategic decisions</h3>
     
 </div>
 
 - 🔭 I'm deeply fascinated by **Artificial Intelligence and its diverse applications**.
-
-- 📄 Curious about my experiences? Check out my [CV](https://drive.google.com/file/d/1SvRUjUYuqhKLwv9xWBUM_J66i-ZDdfPy/view?usp=share_link) 
-
+- 📄 Curious about my experiences? Check out my [CV](https://drive.google.com/file/d/1dQaACdqLKU_KXRctmEEpfSB4FEO4nK6d/view?usp=sharing) 
 - 📫 Feel free to reach out via email at **paulagili.bi@gmail.com**.
 
 <h3>Let's Connect:</h3>
