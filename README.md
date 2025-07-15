@@ -2,7 +2,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWR0MmF6ZGRwbWF2aXUzcHE0Nmdsem5wM3pmZWNuZ2trcTBtc3lzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
     <h1>Welcome, I'm Paula Gili 👋</h1>
-        <h3>Big Data and Business Intelligence Specialist. I transform complex data into impactful strategic decisions</h3>
+        <h3>I integrate Big Data, BI, and Data Architecture to create data-driven solutions that transform and enhance business decisions through advanced analytics.</h3>
     
 </div>
 
